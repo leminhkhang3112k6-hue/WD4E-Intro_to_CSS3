@@ -66,3 +66,12 @@ img {
     max-width: 100%;
     height: auto;
 }
+/* Fix footer link contrast */
+footer a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+footer a:hover {
+    color: #ffeb99;
+}
