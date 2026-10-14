@@ -75,3 +75,13 @@ footer a {
 footer a:hover {
     color: #ffeb99;
 }
+footer a,
+footer a:visited {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+footer a:hover,
+footer a:focus {
+    color: #ffeb99;
+}
